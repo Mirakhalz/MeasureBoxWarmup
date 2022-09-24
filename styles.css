@@ -1,0 +1,33 @@
+.center, .center6{
+    text-align: center;
+    border: 5px purple solid;
+    padding-right: 60%;
+}
+
+.intro {
+    font-size: 6em;
+    justify-content: center;
+
+}
+
+.center
+.sub {
+    font-size: 3rem;
+}
+
+#sect{
+    font-size: 1rem;
+}
+
+.p1{
+    font-size: 5px;
+}
+
+.p2 {
+    font-size: ;
+}
+
+div {
+    text-align: center;
+    border: 5px orangered solid;
+}
