@@ -1,33 +1,33 @@
-.center, .center6{
+*{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    background-color: aquamarine;
+}
+
+#logo{
+    width: 75px;
+}
+
+header{
+    font-size: 2rem;
     text-align: center;
     border: 5px purple solid;
-    padding-right: 60%;
+}
+.post{
+    width: 25vw;
+    border: solid black 2px;
+    margin: 1cm;
+    transform: translateX(50%);
 }
 
-.intro {
-    font-size: 6em;
+.post > h2{
+    font-size: 1.5em;
+}
+.post > p {
+    width: 50%;
     justify-content: center;
-
-}
-
-.center
-.sub {
-    font-size: 3rem;
-}
-
-#sect{
-    font-size: 1rem;
-}
-
-.p1{
-    font-size: 5px;
-}
-
-.p2 {
-    font-size: ;
-}
-
-div {
-    text-align: center;
-    border: 5px orangered solid;
+    transform: translateX(50%);
 }
